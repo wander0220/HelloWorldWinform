@@ -36,9 +36,9 @@
             this.button1.Font = new System.Drawing.Font("굴림", 20F);
             this.button1.Location = new System.Drawing.Point(12, 12);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(267, 218);
+            this.button1.Size = new System.Drawing.Size(310, 230);
             this.button1.TabIndex = 0;
-            this.button1.Text = "사랑은왜기울어질까?";
+            this.button1.Text = "사랑은왜한쪽으로기울어질까?";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -46,7 +46,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(320, 309);
+            this.ClientSize = new System.Drawing.Size(340, 303);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
